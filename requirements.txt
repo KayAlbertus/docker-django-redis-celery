@@ -1,0 +1,7 @@
+Django>=2.2
+celery==4.4.1
+redis==3.4.1
+psycopg2>=2.7.5,<2.8.0
+django_celery_beat==1.1.1
+requests==2.5.0
+djangorestframework==3.13
